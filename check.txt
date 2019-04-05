@@ -2,11 +2,11 @@
 The folder contains the following files
 ------------------------------------------------------------------------------------------
 
-EmbedRank.py -- python code used to evaluate keyphrase extraction based on the benmchmark 		EmbedRank Model. 
-FastText.py -- python code used to evaluate keyphrase extraction based on the FastText 			Embedding Method.
-Glove.py -- python code used to evaluate keyphrase extraction based on the Glove 			Embedding Method.
-Flair.py -- python code used to evaluate keyphrase extraction based on the Flair			Embedding Method.
-GloveAndFlair.py -- python code used to evaluate keyphrase extraction based on both Golve 		and Flair Embedding Method.
+EmbedRank.py -- python code used to evaluate keyphrase extraction based on the benmchmark EmbedRank Model. 
+FastText.py -- python code used to evaluate keyphrase extraction based on the FastText Embedding Method.
+Glove.py -- python code used to evaluate keyphrase extraction based on the Glove Embedding Method.
+Flair.py -- python code used to evaluate keyphrase extraction based on the Flair Embedding Method.
+GloveAndFlair.py -- python code used to evaluate keyphrase extraction based on both Golve and Flair Embedding Method.
 
 
 
@@ -34,7 +34,8 @@ stanford-postagger.jar -- Used to assign POS tagger to each word within a docume
 
 
 
-The swisscom_ai folder contains ------------------------------------------------------------------------------------------
+The swisscom_ai folder contains 
+------------------------------------------------------------------------------------------
 
 Source code of the benchmark Embedrank model.
 
