@@ -1,0 +1,41 @@
+
+The folder contains the following files
+------------------------------------------------------------------------------------------
+
+EmbedRank.py -- python code used to evaluate keyphrase extraction based on the benmchmark 		EmbedRank Model. 
+FastText.py -- python code used to evaluate keyphrase extraction based on the FastText 			Embedding Method.
+Glove.py -- python code used to evaluate keyphrase extraction based on the Glove 			Embedding Method.
+Flair.py -- python code used to evaluate keyphrase extraction based on the Flair			Embedding Method.
+GloveAndFlair.py -- python code used to evaluate keyphrase extraction based on both Golve 		and Flair Embedding Method.
+
+
+
+The Dataset folder contains the following files
+------------------------------------------------------------------------------------------
+
+Hulth 2003 -- consists of 2000 short documents from scientific journal abstracts. Used to evaluate keyphrase extraction on different model/methods
+
+Semeval -- Another dataset used to evaluate key phrase extraction on different model/methods. Each data instance consists of one paragraph of text, drawn from a scientific paper.
+
+
+
+The sent2vec folder contains the following files
+------------------------------------------------------------------------------------------
+
+wiki_unigrams.bin -- Pretrained sent2vec model. Used to embed sentences into vector space.
+
+
+
+The stanford-postagger-full-2018-10-16 folder contains the following files
+------------------------------------------------------------------------------------------
+
+stanford-postagger.jar -- Used to assign POS tagger to each word within a document
+
+
+
+
+The swisscom_ai folder contains ------------------------------------------------------------------------------------------
+
+Source code of the benchmark Embedrank model.
+
+
